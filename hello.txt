@@ -1,1 +1,2 @@
 Xin chào Git!
+Dòng mới được thêm.
